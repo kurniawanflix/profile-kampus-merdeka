@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![website-profile-kampus-merdeka](https://user-images.githubusercontent.com/77148705/188273571-f2ef741c-61b5-483a-bc3e-f9cc74327bf6.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
