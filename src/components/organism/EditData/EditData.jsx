@@ -8,7 +8,6 @@ import {
   MDBRow,
   MDBCol,
   MDBCard,
-  MDBCardTitle,
 } from "mdb-react-ui-kit";
 
 const EditData = () => {
@@ -17,9 +16,10 @@ const EditData = () => {
       <MDBRow className="g-0 text-start">
         <MDBCol md="8">
           <MDBCardBody>
-            <MDBCardTitle className="fw-bold">Lihat/Edit Profile</MDBCardTitle>
-            <hr></hr>
             <MDBListGroup light>
+              <MDBListGroupItem className="fw-bold fs-5">
+                Lihat/Edit Profile
+              </MDBListGroupItem>
               <MDBListGroupItem noBorders>
                 <MDBIcon fas icon="user-circle" className="me-3" />
                 Data Pribadi

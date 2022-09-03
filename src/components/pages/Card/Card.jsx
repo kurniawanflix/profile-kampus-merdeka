@@ -1,7 +1,7 @@
 import React from "react";
-import Profile from "../../atom/Profile/Profile";
-import Data from "../../atom/Data/Data";
-import EditData from "../../atom/EditData/EditData";
+import Profile from "../../organism/Profile/Profile";
+import Data from "../../organism/Data/Data";
+import EditData from "../../organism/EditData/EditData";
 
 const Card = () => {
   return (
